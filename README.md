@@ -1,6 +1,6 @@
 # Huffman Algorithm
 
-Encodes then decodes the given text using the huffman algorithm
+Encodes then decodes the given text using the huffman algorithm.\
 To input text for encoding/decoding, write the text within sample.txt
 
 Sample Output:\
