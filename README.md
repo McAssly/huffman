@@ -1,5 +1,5 @@
 # Huffman Algorithm
-Written on a RasberryPI 4 and compiles on both 3B/4\
+Written on a RasberryPI 4 and compiles on both 3B/4
 
 Encodes then decodes the given text using the huffman algorithm.\
 To input text for encoding/decoding, write the text within sample.txt
